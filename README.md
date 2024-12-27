@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently learning how to use GitHub with the hope of learning how to utilize it for Bioinformatics work related to public health.
 <!--
 **mvillalobos6/mvillalobos6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
